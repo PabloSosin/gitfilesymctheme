@@ -1,5 +1,5 @@
 /*
-	Theme Name: YMC Season 7 Theme
+	Theme Name: Experiment branch YMC Season 7 Theme
 	Theme URI: http://theymc.com/season_7
 	Version: 0.1
 	Author: Pablo Sosin
@@ -93,7 +93,7 @@ footer
 body
 {
     font-family: Arial;
-    background: #05F2AF;
+    background: lime;
     color: #067368;
 }
 
